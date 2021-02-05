@@ -1,0 +1,9 @@
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\bin\Debug\EncoderTester.exe
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\bin\Debug\EncoderTester.pdb
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\bin\Debug\ARINC_424_Encoder.dll
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\bin\Debug\ARINC_424_Encoder.pdb
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\obj\Debug\EncoderTester.csprojAssemblyReference.cache
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\obj\Debug\EncoderTester.csproj.CoreCompileInputs.cache
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\obj\Debug\EncoderTester.csproj.CopyComplete
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\obj\Debug\EncoderTester.exe
+D:\Rider Project\ARINC-424-Encoder\EncoderTester\obj\Debug\EncoderTester.pdb
